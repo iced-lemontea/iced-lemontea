@@ -1,11 +1,12 @@
-👋 Hello, World! I'm iced-lemontea
-Welcome to my GitHub playground! 🚀 Here, you'll find a mix of projects, experiments, and maybe even a few unfinished ideas (because who doesn’t love a good work in progress?).
+### // ICED_LEMONTEA
 
-🔥 About Me
-💻 Code Enthusiast – I love building things that solve problems or just look cool.
+> **Pine Ink Research Lead**
+> [ Gelatine Network Genesis Team ]
 
-🌱 Forever Learning – Currently diving deep into art website development.
+```yaml
+STATUS:       Active
+FOCUS:        High-Velocity EVM Consensus (QBFT)
+DEPLOYMENT:   Gelatine Network [Mainnet]
 
-🎯 Goal – To write code that doesn’t just work but also makes someone smile. 😄
-
-☕ Fueled By – Coffee, music, and the occasional existential crisis about semicolons.
+CONTACT:      research@pine.ink
+UPLINK:       [https://www.pine.ink](https://pine.ink)
