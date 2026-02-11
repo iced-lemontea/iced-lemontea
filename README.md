@@ -9,4 +9,4 @@ FOCUS:        High-Velocity EVM Consensus (QBFT)
 DEPLOYMENT:   Gelatine Network [Mainnet]
 
 CONTACT:      research@pine.ink
-UPLINK:       [https://www.pine.ink](https://pine.ink)
+UPLINK:       [https://www.pine.ink]
